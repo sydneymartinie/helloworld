@@ -1,3 +1,9 @@
+This is our first Rails application, aren't we very clever?
+
+
+
+
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
